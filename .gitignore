@@ -1,6 +1,6 @@
 # Student resources - DO NOT PUSH
 student_resource/
-
+_MACOSX/
 # macOS
 .DS_Store
 
